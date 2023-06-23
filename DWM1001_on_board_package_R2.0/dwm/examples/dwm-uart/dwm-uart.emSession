@@ -11,6 +11,7 @@
  <Project>
   <ProjectSessionItem path="dwm-uart"/>
   <ProjectSessionItem path="dwm-uart;dwm-uart"/>
+  <ProjectSessionItem path="dwm-uart;dwm-uart;Source"/>
  </Project>
  <Register1/>
  <Register2/>
@@ -34,6 +35,10 @@
  <Watch4>
   <Watches active="0" update="Never"/>
  </Watch4>
- <Files/>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="26" useTextEdit="1" path="../../nordicsemi/components/drivers_nrf/uart/nrf_drv_uart.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="115" useTextEdit="1" path="dwm-uart.c" left="0" selected="1" top="94" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="3" y="24" useTextEdit="1" path="../../nordicsemi/components/drivers_nrf/hal/nrf_uart.h" left="0" top="0" codecName="Default"/>
+ </Files>
  <EMStudioWindow activeProject="dwm-uart" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="dwm1001_configuration" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
